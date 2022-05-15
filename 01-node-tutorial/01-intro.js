@@ -7,3 +7,7 @@ if (amount < 10) {
 }
 
 console.log(`hey it's my first node app!!!`)
+
+setInterval(() =>{
+  console.log("Hello world")
+}, 1000)
